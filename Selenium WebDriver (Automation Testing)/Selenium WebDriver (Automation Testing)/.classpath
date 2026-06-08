@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Module – 7 (Selenium Webdriver)"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="libs/jcommander.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-server.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j.jar"/>
+	<classpathentry kind="lib" path="libs/testng.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/commons-collections4.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/commons-compress.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/jcommander.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/log4j-api.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/poi.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/poi-ooxml-lite.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/selenium-server.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/slf4j.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/testng.jar"/>
+	<classpathentry kind="lib" path="D:/Krupali/Assignment/Automation_Assignment/Selenium WebDriver (Automation Testing)/libs/xmlbeans.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

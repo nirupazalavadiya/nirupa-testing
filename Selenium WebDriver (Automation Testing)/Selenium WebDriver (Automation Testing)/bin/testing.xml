@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestingGroupSuite">
+    
+    <!-- Test configuration for running groups (Question 8) -->
+    <test name="SmokeTestsOnly">
+        <groups>
+            <run>
+                <!-- This will only execute tests inside the 'smoke' group -->
+                <include name="smoke" />
+            </run>
+        </groups>
+        <classes>
+            <class name="module7.TestNGGroupsDemo" />
+        </classes>
+    </test>
+
+    <!-- Test configuration for the Parameterized Facebook test (Question 7) -->
+    <!-- Note: To run Question 7 properly, you execute this block via TestNG -->
+    <test name="ParameterizedFacebookTest">
+        <parameter name="email" value="xmlUser@demo.com" />
+        <parameter name="password" value="xmlPassword123" />
+        <classes>
+            <class name="module7.TestNGParameterizedFacebook" />
+        </classes>
+    </test>
+
+</suite>
